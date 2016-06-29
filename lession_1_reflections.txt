@@ -1,0 +1,9 @@
+diff is really a useful command
+its is similar to git diff
+uses + and - to denote the lines added and removed
+
+Q)How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+A: I can check and see what are the differences made in the file and compare them. If needed to rollback it is easy to do so.
+
+Q)How might using version control make you more confident to make changes that could break something?
+A: Knowing that I can easily revert back to a point when the code was working, would really make me try different crazy things!
